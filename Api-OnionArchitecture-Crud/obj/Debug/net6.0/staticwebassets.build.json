@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "2N35ARuWcBLGIUgf8pievCVWVM2+176ZJ+33tc6fLO0=",
+  "Source": "Api-OnionArchitecture-Crud",
+  "BasePath": "_content/Api-OnionArchitecture-Crud",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
